@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp-血壓查詢系統-新", "WindowsFormsApp-作業3(血壓查詢系統-新)\WindowsFormsApp-血壓查詢系統-新.csproj", "{DB7C42F0-085D-4C5E-B55C-BF7FE7E53992}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB7C42F0-085D-4C5E-B55C-BF7FE7E53992}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB7C42F0-085D-4C5E-B55C-BF7FE7E53992}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB7C42F0-085D-4C5E-B55C-BF7FE7E53992}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB7C42F0-085D-4C5E-B55C-BF7FE7E53992}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D68472FE-83D7-41A7-B885-7D7AAC2C7B3B}
+	EndGlobalSection
+EndGlobal
