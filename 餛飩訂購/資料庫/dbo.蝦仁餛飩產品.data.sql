@@ -1,0 +1,7 @@
+INSERT INTO [dbo].[蝦仁餛飩產品] ([product_Id], [product_name], [product_price], [product_qty], [makedate], [Note]) VALUES (N'1', N'鮮蝦餛飩(大)', N'100', N'10', N'2018-06-21', NULL)
+INSERT INTO [dbo].[蝦仁餛飩產品] ([product_Id], [product_name], [product_price], [product_qty], [makedate], [Note]) VALUES (N'2', N'鮮蝦餛飩(中)', N'80', N'8', N'2018-06-21', NULL)
+INSERT INTO [dbo].[蝦仁餛飩產品] ([product_Id], [product_name], [product_price], [product_qty], [makedate], [Note]) VALUES (N'3', N'鮮蝦餛飩(小)', N'60', N'5', N'2018-06-21', NULL)
+INSERT INTO [dbo].[蝦仁餛飩產品] ([product_Id], [product_name], [product_price], [product_qty], [makedate], [Note]) VALUES (N'4', N'原味餛飩(大)', N'80', N'2', N'2018-06-21', NULL)
+INSERT INTO [dbo].[蝦仁餛飩產品] ([product_Id], [product_name], [product_price], [product_qty], [makedate], [Note]) VALUES (N'5', N'原味餛飩(中)', N'60', N'12', N'2018-06-21', NULL)
+INSERT INTO [dbo].[蝦仁餛飩產品] ([product_Id], [product_name], [product_price], [product_qty], [makedate], [Note]) VALUES (N'6', N'原味餛飩(小)', N'40', N'15', N'2018-06-21', NULL)
+INSERT INTO [dbo].[蝦仁餛飩產品] ([product_Id], [product_name], [product_price], [product_qty], [makedate], [Note]) VALUES (N'7', N'破布子', N'150', N'20', N'2018-06-21', NULL)
